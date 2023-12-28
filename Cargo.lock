@@ -3,10 +3,22 @@
 version = 3
 
 [[package]]
+name = "another_function"
+version = "0.1.0"
+
+[[package]]
+name = "branches"
+version = "0.1.0"
+
+[[package]]
 name = "cfg-if"
 version = "1.0.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "baf1de4339761588bc0619e3cbc0120ee582ebb74b53b4efbf79117bd2da40fd"
+
+[[package]]
+name = "chapter_3_temp_conversions"
+version = "0.1.0"
 
 [[package]]
 name = "getrandom"
@@ -27,10 +39,18 @@ dependencies = [
 ]
 
 [[package]]
+name = "hello_cargo"
+version = "0.1.0"
+
+[[package]]
 name = "libc"
 version = "0.2.151"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "302d7ab3130588088d277783b1e2d2e10c9e9e4a16dd9050e6ec93fb3e7048f4"
+
+[[package]]
+name = "loops"
+version = "0.1.0"
 
 [[package]]
 name = "ppv-lite86"
@@ -67,6 +87,10 @@ checksum = "ec0be4795e2f6a28069bec0b5ff3e2ac9bafc99e6a9a7dc3547996c5c816922c"
 dependencies = [
  "getrandom",
 ]
+
+[[package]]
+name = "rust_learning_projects"
+version = "0.1.0"
 
 [[package]]
 name = "wasi"
