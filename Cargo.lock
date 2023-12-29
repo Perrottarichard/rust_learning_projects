@@ -97,6 +97,10 @@ dependencies = [
 ]
 
 [[package]]
+name = "rectangles"
+version = "0.1.0"
+
+[[package]]
 name = "rust_learning_projects"
 version = "0.1.0"
 
