@@ -29,6 +29,10 @@ name = "chapter_3_twelve_days_of_christmas_lyrics"
 version = "0.1.0"
 
 [[package]]
+name = "enums_and_pattern_matching"
+version = "0.1.0"
+
+[[package]]
 name = "getrandom"
 version = "0.2.11"
 source = "registry+https://github.com/rust-lang/crates.io-index"
