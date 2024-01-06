@@ -29,6 +29,10 @@ name = "chapter_3_twelve_days_of_christmas_lyrics"
 version = "0.1.0"
 
 [[package]]
+name = "codewars"
+version = "0.1.0"
+
+[[package]]
 name = "enums_and_pattern_matching"
 version = "0.1.0"
 
@@ -102,6 +106,10 @@ dependencies = [
 
 [[package]]
 name = "rectangles"
+version = "0.1.0"
+
+[[package]]
+name = "restaurant"
 version = "0.1.0"
 
 [[package]]

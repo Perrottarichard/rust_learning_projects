@@ -8,4 +8,4 @@ edition = "2021"
 [dependencies]
 
 [workspace]
-members = ["enums_and_pattern_matching","rectangles", "another_function", "branches", "chapter_3_fibonacci", "chapter_3_temp_conversions", "chapter_3_fibonacci", "chapter_3_twelve_days_of_christmas_lyrics", "guessing_game", "hello_cargo", "loops", "rectangles"]
+members = ["codewars", "restaurant", "enums_and_pattern_matching","rectangles", "another_function", "branches", "chapter_3_fibonacci", "chapter_3_temp_conversions", "chapter_3_fibonacci", "chapter_3_twelve_days_of_christmas_lyrics", "guessing_game", "hello_cargo", "loops", "rectangles", "restaurant"]
