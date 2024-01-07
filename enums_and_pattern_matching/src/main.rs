@@ -1,4 +1,6 @@
+#![allow(dead_code)]
 #[derive(Debug)] // so we can inspect the state in a minute
+
 enum UsState {
     Alabama,
     Alaska,
